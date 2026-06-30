@@ -78,19 +78,3 @@ submitBtn.addEventListener("click" , function(event){
         emailMsg.textContent = "Enter a valid email";
         emailMsg.style.color = "red";
         emailHelp.style.display = "none";
-        isValid = false;
-    }
-    else{
-        emailHelp.style.display = "none";
-    }
-
-    // Clear fields only if everything is valid
-    if(isValid){
-        nameInput.value = "";
-        emailInput.value = "";
-        messageInput.value = "";
-
-        alert("Form Submitted Successfully");
-    }
-
-});

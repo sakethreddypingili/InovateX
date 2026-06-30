@@ -48,31 +48,3 @@ const projects = [
     deployed:"https://spendwiseonline.vercel.app/"
 },
 {
-    title:"News Feed",
-    description:"Latest News Application",
-    tech:["API, HTML, CSS, JS"],
-    github:"https://github.com/sakethreddypingili/NewsHub",
-    deployed:"https://newshubonline1.vercel.app/"
-},
-{
-    title:"GitHub Explorer",
-    description:"Search GitHub Profiles",
-    tech:["GitHub API"],
-    github:"https://github.com/sakethreddypingili/GitScout",
-    deployed:"https://gitscoutonline.vercel.app/"
-},
-{
-    title:"Kanban Board",
-    description:"Task Management Board",
-    tech:["JavaScript"],
-    github:"https://github.com/sakethreddypingili/TaskFlow",
-    deployed:"https://taskflowonline.vercel.app/"
-},
-{
-    title:"Portfolio",
-    description:"Team Portfolio Website",
-    tech:["HTML, CSS, JS"],
-    github:"https://github.com/sakethreddypingili/InovateX",
-    deployed:"https://inovatexonline.vercel.app/"
-}
-];
