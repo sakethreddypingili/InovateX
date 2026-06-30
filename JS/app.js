@@ -38,3 +38,10 @@ function renderProjects() {
                 <a href="${project.deployed}" target="_blank" class="view-btn" onclick="event.stopPropagation()">
                   <i class="bi bi-eye"></i> View
                 </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>`;
+  });
+}
