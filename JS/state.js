@@ -23,3 +23,28 @@ const members = [
         name : "Satyam Kumar Jha" , 
         role : "Frontend Developer" , 
         github : "https://github.com/satyamkjha001-cpu"
+    } , 
+    {
+        photo : "assets/images/mahendra.png",
+        name : "Mahendra Yadav" , 
+        role : "Frontend Developer" , 
+        github : "https://github.com/my9941652-create"
+    } 
+]
+
+const projects = [
+{
+    title:"Quiz App",
+    description:"Interactive MCQ Quiz Application",
+    tech:"HTML, CSS, JavaScript",
+    github:"https://github.com/sakethreddypingili/QuizQuest",
+    deployed:"https://quizquestonline.vercel.app/"
+},
+{
+    title:"Expense Tracker",
+    description:"Track Income and Expenses",
+    tech:["HTML, CSS, JavaScript"],
+    github:"https://github.com/sakethreddypingili/SpendWise",
+    deployed:"https://spendwiseonline.vercel.app/"
+},
+{
